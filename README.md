@@ -278,8 +278,6 @@ loq-npcf/
 │   ├── genshin_power.csv              # 18min Genshin (stock 50W, 530 samples)
 │   ├── genshin_power_v7.csv           # 5min Genshin (65W, 300 samples)
 │   └── genshin_power_v7_undervolt.csv # 5min Genshin (65W + CPU -75mV)
-└── docs/
-    └── REPORT.md                      # Detailed technical report
 ```
 
 **Not in repo** (too large / system-specific):
