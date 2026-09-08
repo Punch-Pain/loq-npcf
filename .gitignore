@@ -1,0 +1,13 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.symvers
+*.order
+*.dtb
+*.dtbo
+*.bak
+*.swp
+*~
+.DS_Store
+__pycache__/
